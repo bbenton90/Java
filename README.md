@@ -1,2 +1,2 @@
 # Java
-Miscellaneous Java Programming Exercises
+Java Programming Exercises from CIS3260
